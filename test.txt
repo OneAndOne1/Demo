@@ -8,4 +8,7 @@ change 2
 
 create new branch 
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+<<<<<<< HEAD
+=======
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> feature1
